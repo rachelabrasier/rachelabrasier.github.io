@@ -26,6 +26,6 @@ Ukrainian (B2)
 Russian (B1)  
 German (A2)
 
-### Contact me
+### Contact me:
 
 [rachelabrasier@gmail.com](mailto:rachelabrasier@gmail.com)
