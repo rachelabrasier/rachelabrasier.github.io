@@ -8,13 +8,13 @@ I am a full-time Economic Development Analyst with three years of professional d
 
 ### Previous Employment
 
-2018 - 2019: U.S. Peace Corps Volunteer, Ukraine
-2016 - 2018: Energy Economics Research Analyst, Federal Reserve Bank of Dallas
-2015: National Science Foundation Undergraduate Researcher, Civil Conflict Management and Peace Science
+2018 - 2019: U.S. Peace Corps Volunteer, Ukraine 
+2016 - 2018: Energy Economics Research Analyst, Federal Reserve Bank of Dallas 
+2015: National Science Foundation Undergraduate Researcher, Civil Conflict Management and Peace Science 
 
 ### Previous Education
 
-2016: M.A. Applied Economics, University of Alabama
+2016: M.A. Applied Economics, University of Alabama 
 2015: B.A. International Studies, University of Alabama
 
 ### Languages
