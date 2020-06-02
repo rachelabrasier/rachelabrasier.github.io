@@ -6,6 +6,11 @@ permalink: /about/
 
 I am a full-time Economic Development Analyst with three years of professional data analysis experience, and a Geospatial Information Sciences master's student.
 
+### Current
+
+2019 - Present: Economic Development Analyst, University of Texas at Dallas  
+2020 - Present: M.S. Geospatial Information Sciences, University of Texas at Dallas
+
 ### Previous Employment
 
 2018 - 2019: U.S. Peace Corps Volunteer, Ukraine  
