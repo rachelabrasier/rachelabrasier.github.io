@@ -8,8 +8,8 @@ I am a full-time Economic Development Analyst with three years of professional d
 
 ### Current
 
-2019 - Present: Economic Development Analyst, University of Texas at Dallas  
-2020 - Present: M.S. Geospatial Information Sciences, University of Texas at Dallas
+2019 - : Economic Development Analyst, University of Texas at Dallas  
+2020 - : M.S. Geospatial Information Sciences, University of Texas at Dallas
 
 ### Previous Employment
 
