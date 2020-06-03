@@ -3,9 +3,9 @@ layout: page
 title: Presentations
 permalink: /presentations/
 ---
-### SkillSharing Festival
+### SkillSharing Festival / Фестиваль Вмінь
 #### Ivano-Frankivsk, Ukraine, 16 March 2019
-Data Analysis and Interpretation
+Data Analysis and Interpretation / Аналіз та Інтерпретація Даних
 ![IF SkillSharing Flyer](/images/Ivano Frankivsk 2019 SkillSharing Flyer.png "IF SkillSharing Flyer")
 
 ### Federal Reserve Bank of Dallas, Research Analysts' Brown Bag
