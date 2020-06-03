@@ -8,11 +8,11 @@ permalink: /presentations/
 Data Analysis and Interpretation
 ![IF SkillSharing Flyer](/images/Ivano Frankivsk 2019 SkillSharing Flyer.png "IF SkillSharing Flyer")
 
-### Federal Reserve Bank of Dallas, Research Analyst Symposium
+### Federal Reserve Bank of Dallas, Research Analysts' Brown Bag
 #### Dallas, Texas, 20 June 2018
 Lessons from Panel Microdata
 
-### Federal Reserve Bank of Dallas, Research Analyst Symposium
+### Federal Reserve Bank of Dallas, Research Analysts' Brown Bag
 #### Dallas, Texas, 9 June 2017
 Applications for Data in Research
 
