@@ -8,6 +8,14 @@ permalink: /presentations/
 Data Analysis and Interpretation
 ![IF SkillSharing Flyer](/images/Ivano Frankivsk 2019 SkillSharing Flyer.png "IF SkillSharing Flyer")
 
+### Federal Reserve Bank of Dallas, Research Analyst Symposium
+#### Dallas, Texas, 20 June 2018
+Lessons from Panel Microdata
+
+### Federal Reserve Bank of Dallas, Research Analyst Symposium
+#### Dallas, Texas, 9 June 2017
+Applications for Data in Research
+
 ### Midwest Political Science Association 74th Annual Conference
 #### Chicago, Illinois, 7-10 April 2016
 The Shadow of the Kremlin: The Effect of Communist Political Legacy on a State's Present-Day Political Discrimination against Minorities
