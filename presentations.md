@@ -7,7 +7,7 @@ permalink: /presentations/
 
 ### University of Texas at Dallas, GIS Programming Final Presentations
 #### Richardson, Texas, 7 May 2020 (Remote)
-Hospital Locator using Python, ArcPy, ArcGIS
+Hospital Locator using Python, ArcPy, ArcGIS [(Open video in new tab)](https://drive.google.com/file/d/10o95XXk9Ei0sF03PpidRaDW7H-nmcBCE/view?usp=sharing)
 {% include googleDrivePlayer.html id=page.driveId %}
 
 ### SkillSharing Festival / Фестиваль Вмінь
@@ -26,7 +26,7 @@ Data Analysis and Interpretation / Аналіз та Інтерпретація 
 
 ### University of Alabama Manderson Graduate School of Business, Capstone Project Presentations
 #### Tuscaloosa, Alabama, 27 April 2016
-War and Trade in Ukraine
+War and Trade in Ukraine [(Open slideshow)](https://docs.google.com/presentation/d/e/2PACX-1vTHupgE_zoAB18DTCZDyHCMrTzMydP8iD6WTDKD-BJj5yR34Lgvelh9D9f-Cf8JPHmGqgQwNzPQHgOd/pub?start=false&loop=false&delayms=3000)
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHupgE_zoAB18DTCZDyHCMrTzMydP8iD6WTDKD-BJj5yR34Lgvelh9D9f-Cf8JPHmGqgQwNzPQHgOd/embed?start=false&loop=true&delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Midwest Political Science Association 74th Annual Conference
