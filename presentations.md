@@ -5,7 +5,7 @@ permalink: /presentations/
 ---
 
 Presentation Video
-{/images/final-project-rab_compressed.mp4 500 400}
+{% include googleDrivePlayer.html id=page.10o95XXk9Ei0sF03PpidRaDW7H-nmcBCE/preview %}
 
 ### SkillSharing Festival / Фестиваль Вмінь
 #### Ivano-Frankivsk, Ukraine, 16 March 2019
@@ -20,6 +20,10 @@ Data Analysis and Interpretation / Аналіз та Інтерпретація 
 #### Dallas, Texas, 9 June 2017
 [Applications for Data in Research, Part 1: Maps](Applications for Data in Research - Part 1 Maps.pdf)  
 [Applications for Data in Research, Part 2: Balkans](Applications for Data in Research - Part 2 Balkans.pdf)
+
+### University of Alabama Manderson Graduate School of Business, Capstone Project Presentations
+#### Tuscaloosa, Alabama, 27 April 2016
+[War and Trade in Ukraine](https://docs.google.com/presentation/d/14Dg7WLPWdFd3QaWEOF7d74IuakJuWHI0Sar4lfQI6as/edit?usp=sharing)
 
 ### Midwest Political Science Association 74th Annual Conference
 #### Chicago, Illinois, 7-10 April 2016
