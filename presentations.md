@@ -4,7 +4,7 @@ title: Presentations
 permalink: /presentations/
 ---
 
-![]({% Video final-project-rab_compressed.mp4 500 400 %})
+![]({% Video /images/final-project-rab_compressed.mp4 500 400 %})
 
 ### SkillSharing Festival / Фестиваль Вмінь
 #### Ivano-Frankivsk, Ukraine, 16 March 2019
