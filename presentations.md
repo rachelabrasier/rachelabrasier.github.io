@@ -14,12 +14,12 @@ Data Analysis and Interpretation / Аналіз та Інтерпретація 
 
 ### Federal Reserve Bank of Dallas, Research Analysts' Brown Bag
 #### Dallas, Texas, 20 June 2018
-[Lessons from Panel Microdata](/images/Lessons from Panel Microdata.pdf)
+[Lessons from Panel Microdata](Lessons from Panel Microdata.pdf)
 
 ### Federal Reserve Bank of Dallas, Research Analysts' Brown Bag
 #### Dallas, Texas, 9 June 2017
-[Applications for Data in Research, Part 1: Maps](/images/Applications for Data in Research - Part 1 Maps.pdf)  
-[Applications for Data in Research, Part 2: Balkans](/images/Applications for Data in Research - Part 2 Balkans.pdf)
+[Applications for Data in Research, Part 1: Maps](Applications for Data in Research - Part 1 Maps.pdf)  
+[Applications for Data in Research, Part 2: Balkans](Applications for Data in Research - Part 2 Balkans.pdf)
 
 ### Midwest Political Science Association 74th Annual Conference
 #### Chicago, Illinois, 7-10 April 2016
