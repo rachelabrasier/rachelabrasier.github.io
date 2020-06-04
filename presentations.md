@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Presentations
+driveId: 10o95XXk9Ei0sF03PpidRaDW7H-nmcBCE/preview
 permalink: /presentations/
 ---
 
 ### University of Texas at Dallas, GIS Programming Final Presentations
 #### Richardson, Texas, 7 May 2020 (Remote)
 Hospital Locator using Python, ArcPy, ArcGIS
-{% include googleDrivePlayer.html id=page.10o95XXk9Ei0sF03PpidRaDW7H-nmcBCE/preview %}
+{% include googleDrivePlayer.html id=page.id %}
 
 ### SkillSharing Festival / Фестиваль Вмінь
 #### Ivano-Frankivsk, Ukraine, 16 March 2019
