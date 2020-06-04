@@ -26,7 +26,8 @@ Data Analysis and Interpretation / Аналіз та Інтерпретація 
 
 ### University of Alabama Manderson Graduate School of Business, Capstone Project Presentations
 #### Tuscaloosa, Alabama, 27 April 2016
-[War and Trade in Ukraine](https://docs.google.com/presentation/d/14Dg7WLPWdFd3QaWEOF7d74IuakJuWHI0Sar4lfQI6as/edit?usp=sharing)
+[War and Trade in Ukraine](https://docs.google.com/presentation/d/e/2PACX-1vTHupgE_zoAB18DTCZDyHCMrTzMydP8iD6WTDKD-BJj5yR34Lgvelh9D9f-Cf8JPHmGqgQwNzPQHgOd/pub?start=false&loop=true&delayms=3000)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHupgE_zoAB18DTCZDyHCMrTzMydP8iD6WTDKD-BJj5yR34Lgvelh9D9f-Cf8JPHmGqgQwNzPQHgOd/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Midwest Political Science Association 74th Annual Conference
 #### Chicago, Illinois, 7-10 April 2016
