@@ -4,7 +4,9 @@ title: Presentations
 permalink: /presentations/
 ---
 
-Presentation Video
+### University of Texas at Dallas, GIS Programming Final Presentations
+#### Richardson, Texas, 7 May 2020 (Remote)
+Hospital Locator using Python, ArcPy, ArcGIS
 {% include googleDrivePlayer.html id=page.10o95XXk9Ei0sF03PpidRaDW7H-nmcBCE/preview %}
 
 ### SkillSharing Festival / Фестиваль Вмінь
