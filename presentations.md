@@ -23,5 +23,5 @@ Data Analysis and Interpretation / Аналіз та Інтерпретація 
 
 ### Midwest Political Science Association 74th Annual Conference
 #### Chicago, Illinois, 7-10 April 2016
-The Shadow of the Kremlin: The Effect of Communist Political Legacy on a State's Present-Day Political Discrimination against Minorities
+The Shadow of the Kremlin: The Effect of Communist Political Legacy on a State's Present-Day Political Discrimination against Minorities [(Zoom Image)](Shadow of the Kremlin Poster.pdf)
 ![Shadow of the Kremlin Poster](/images/Shadow of the Kremlin Poster.png "Shadow of the Kremlin Poster")
