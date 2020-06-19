@@ -6,8 +6,9 @@ permalink: /pubs/
 
 ### The University of Texas at Dallas, [The Connection: Economic Development and Our Community](https://www.utdallas.edu/economicengine/connection/)
 
-[Campus to Career: Employment Outcomes for Business Analytics Graduates](https://www.utdallas.edu/economicengine/download/The_Connection_20200602.pdf) (June 2020)  
-[Campus to Career: Employment Outcomes for Computer Science Graduates](https://www.utdallas.edu/economicengine/download/The_Connection_20200401.pdf) (April 2020)
+[DFW's Future Freshmen: How UT Dallas Can Capitalize on Local Students](https://www.utdallas.edu/economicengine/download/The_Connection_20200615.pdf) (June 15, 2020)
+[Campus to Career: Employment Outcomes for Business Analytics Graduates](https://www.utdallas.edu/economicengine/download/The_Connection_20200602.pdf) (June 2, 2020)  
+[Campus to Career: Employment Outcomes for Computer Science Graduates](https://www.utdallas.edu/economicengine/download/The_Connection_20200401.pdf) (April 1, 2020)
 
 
 ### Federal Reserve Bank of Dallas, Southwest Economy
