@@ -19,7 +19,7 @@ I am a full-time Economic Development Analyst with three years of professional d
 
 ### Previous Education
 
-2016: M.A. Applied Economics, University of Alabama  
+2016: M.A. Economics, University of Alabama  
 2015: B.A. International Studies, University of Alabama
 
 ### Languages
