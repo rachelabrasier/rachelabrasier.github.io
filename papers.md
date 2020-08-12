@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers/
 ---
 
-#### Predicting Russian Oil and Gas Well Yields (Geospatial Sciences Workshop, August 2020)
+#### Predicting Russian Oil and Gas Well Yields (Geospatial Sciences Workshop, August 2020) -- [Download Paper](Oil_Well_Yields.pdf)
 
 #### Twitter Data Analysis as a Lens for Understanding the Conflict in Ukraine (Advanced Data Programming Workshop, August 2020)
 
