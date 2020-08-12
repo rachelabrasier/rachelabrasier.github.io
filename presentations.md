@@ -5,8 +5,14 @@ driveId: 10o95XXk9Ei0sF03PpidRaDW7H-nmcBCE/preview
 permalink: /presentations/
 ---
 
+### University of Texas at Dallas, Advanced Data Programming Final Presentations
+#### Virtual, 5 August 2020
+
+### University of Texas at Dallas, Geospatial Sciences Workshop Final Presentations
+#### Virtual, 3 August 2020
+
 ### University of Texas at Dallas, GIS Programming Final Presentations
-#### Richardson, Texas, 7 May 2020 (Remote)
+#### Virtual, 7 May 2020
 Hospital Locator using Python, ArcPy, ArcGIS [(Open video in new tab)](https://drive.google.com/file/d/10o95XXk9Ei0sF03PpidRaDW7H-nmcBCE/view?usp=sharing)
 {% include googleDrivePlayer.html id=page.driveId %}
 
