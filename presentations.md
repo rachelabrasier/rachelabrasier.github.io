@@ -6,14 +6,14 @@ permalink: /presentations/
 ---
 
 ### University of Texas at Dallas, Advanced Data Programming Final Presentations
-#### Virtual, 5 August 2020
+#### Virtual, Recorded Live, 5 August 2020
 
 ### University of Texas at Dallas, Geospatial Sciences Workshop Final Presentations
-#### Virtual, 3 August 2020
+#### Virtual, Recorded Live, 3 August 2020
 [Predicting Oil Well Yields in Russia](Oil_Well_Yields_ppt.pdf)
 
 ### University of Texas at Dallas, GIS Programming Final Presentations
-#### Virtual, 7 May 2020
+#### Virtual, Pre-Recorded, 7 May 2020
 Hospital Locator using Python, ArcPy, ArcGIS [(Open video in new tab)](https://drive.google.com/file/d/10o95XXk9Ei0sF03PpidRaDW7H-nmcBCE/view?usp=sharing)
 {% include googleDrivePlayer.html id=page.driveId %}
 
