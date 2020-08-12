@@ -10,6 +10,7 @@ permalink: /presentations/
 
 ### University of Texas at Dallas, Geospatial Sciences Workshop Final Presentations
 #### Virtual, 3 August 2020
+[Predicting Oil Well Yields in Russia](Oil_Well_Yields_ppt.pdf)
 
 ### University of Texas at Dallas, GIS Programming Final Presentations
 #### Virtual, 7 May 2020
