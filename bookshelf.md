@@ -31,6 +31,7 @@ permalink: /bookshelf/
 | Mexican Gothic | Silvia Moreno-Garcia |
 | Tinderbox | Rachel Grant |
 | Circe | Madeline Miller |
+| <[circecover] width=500/> | |
 | It Would Be Night in Caracas | Karina Sainz-Borgo |
 | Gods of Jade and Shadow | Silvia Moreno-Garcia |
 | This Is How You Lose the Time War | Amal el-Mohtar and Max Gladstone |
@@ -52,6 +53,7 @@ permalink: /bookshelf/
 | Throne of Glass Series | Sarah J. Maas |
 | 1984 | George Orwell |
 
+[circecover]: https://rachelabrasier.github.io/images/circecover.png "Circe Cover"
 
 
 
