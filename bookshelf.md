@@ -6,6 +6,8 @@ permalink: /bookshelf/
 
 ## Recently Read
 
+<img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=250/> <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=250/> <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=250/> <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=250/>
+
 ### Nonfiction
 
 | Title | Author |
@@ -31,7 +33,7 @@ permalink: /bookshelf/
 | Mexican Gothic | Silvia Moreno-Garcia |
 | Tinderbox | Rachel Grant |
 | Circe | Madeline Miller |
-| <[circecover] width=500/> | |
+| <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=250/> | |
 | It Would Be Night in Caracas | Karina Sainz-Borgo |
 | Gods of Jade and Shadow | Silvia Moreno-Garcia |
 | This Is How You Lose the Time War | Amal el-Mohtar and Max Gladstone |
