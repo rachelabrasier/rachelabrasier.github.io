@@ -6,10 +6,10 @@ permalink: /bookshelf/
 
 ## Recently Read
 
-| <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=250/> | <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=250/> | <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=250/> |
+| <img src="https://rachelabrasier.github.io/images/mexican+gothic_cover.png" alt="Circe" width=250/> | <img src="https://rachelabrasier.github.io/images/tinderbox_cover.png" alt="Circe" width=250/> | <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=250/> |
 | --- | --- | --- |
-| *Circe* | *Circe* | *Circe* |
-| Madeline Miller | Madeline Miller | Madeline Miller |
+| *Mexican Gothic* | *Tinderbox* | *Circe* |
+| Silvia Moreno-Garcia | Rachel Grant | Madeline Miller |
 | | | |
 | <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=250/> | <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=250/> | <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=250/> |
 | *Circe* | *Circe* | *Circe* |
