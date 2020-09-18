@@ -7,7 +7,6 @@ permalink: /bookshelf/
 ## Recently Read
 | <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=200/> | <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=200/> | <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=200/> |
 | --- | --- | --- |
-| <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=200/> | <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=200/> | <img src="https://rachelabrasier.github.io/images/circecover.png" alt="Circe" width=200/> |
 | *Circe* | *Circe* | *Circe* |
 | Madeline Miller | Madeline Miller | Madeline Miller |
 
