@@ -9,7 +9,7 @@ permalink: /bookshelf/
 ### Nonfiction
 
 | Title | Author |
-| --- | --- |
+| ------------- | --- |
 | The Fifth Risk | Michael Lewis |
 | Our Magnificent Bastard Tongue: The Untold History of English | John McWhorter |
 | Black Lamb and Grey Falcon, Atlantic Monthly Edition | Rebecca West |
@@ -25,7 +25,7 @@ permalink: /bookshelf/
 ### Fiction
 
 | Title | Author |
-| --- | --- |
+| ------------- | --- |
 | Mexican Gothic | Silvia Moreno-Garcia |
 | Tinderbox | Rachel Grant |
 | Circe | Madeline Miller |
