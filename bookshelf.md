@@ -19,7 +19,7 @@ permalink: /bookshelf/
 | In Other Words | Jhumpa Lahiri |
 | Flow | Mihaly Csikszentmihalyi |
 | Notes on a Foreign Country | Suzy Hansen |
-| Comradely Greetings: The Prison Letters of Nadya & Slavoj | Nadezhda Tolokonnikova and Slavoj Zizek |
+| Comradely Greetings: The Prison Letters of Nadya and Slavoj | Nadezhda Tolokonnikova and Slavoj Zizek |
 | The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now | Dr. Meg Jay |
 | On Tyranny | Timothy Snyder |
 
