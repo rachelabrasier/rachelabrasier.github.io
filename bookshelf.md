@@ -41,19 +41,25 @@ permalink: /bookshelf/
 <img src="https://rachelabrasier.github.io/images/notes+on+a+foreign+country_cover.png" alt="Notes on a Foreign Country" width=250/>
 <img src="https://rachelabrasier.github.io/images/comradely+greetings_cover.png" alt="Comradely Greetings" width=250/>
 <img src="https://rachelabrasier.github.io/images/1984_cover.png" alt="1984" width=250/>
-<img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
-<img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
-<img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
-<img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
-<img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
-<img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
-<img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
-<img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
-<img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
-<img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
-<img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
-<img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
-
-
-
+<img src="https://rachelabrasier.github.io/images/exit+west_cover.png" alt="Exit West" width=250/>
+<img src="https://rachelabrasier.github.io/images/the+defining+decade_cover.png" alt="The Defining Decade" width=250/>
+<img src="https://rachelabrasier.github.io/images/survive+like+a+spy_cover.png" alt="Survive Like a Spy" width=250/>
+<img src="https://rachelabrasier.github.io/images/on+tyranny_cover.png" alt="On Tyranny" width=250/>
+<img src="https://rachelabrasier.github.io/images/the+bone+witch_cover.png" alt="The Bone Witch" width=250/>
+<img src="https://rachelabrasier.github.io/images/we+should+all+be+feminists_cover.png" alt="We Should All Be Feminists" width=250/>
+<img src="https://rachelabrasier.github.io/images/uprooted_cover.png" alt="Uprooted" width=250/>
+<img src="https://rachelabrasier.github.io/images/the+return_cover.png" alt="The Return" width=250/>
+<img src="https://rachelabrasier.github.io/images/a+constellation+of+vital+phenomena_cover.png" alt="A Constellation of Vital Phenomena" width=250/>
+<img src="https://rachelabrasier.github.io/images/to+paris_cover.png" alt="The 15:17 to Paris" width=250/>
+<img src="https://rachelabrasier.github.io/images/the+less+you+know+the+better+you+sleep_cover.png" alt="The Less You Know, the Better You Sleep" width=250/>
+<img src="https://rachelabrasier.github.io/images/red+notice_cover.png" alt="Red Notice" width=250/>
+<img src="https://rachelabrasier.github.io/images/the+galosh_cover.png" alt="The Galosh and Other Stories" width=250/>
+<img src="https://rachelabrasier.github.io/images/the+compromise_cover.png" alt="The Compromise" width=250/>
+<img src="https://rachelabrasier.github.io/images/fardwor+russia_cover.png" alt="Fardwor, Russia!" width=250/>
+<img src="https://rachelabrasier.github.io/images/back+to+moscow_cover.png" alt="Back to Moscow" width=250/>
+<img src="https://rachelabrasier.github.io/images/voyager_cover.png" alt="Voyager" width=250/>
+<img src="https://rachelabrasier.github.io/images/dragonfly+in+amber_cover.png" alt="Dragonfly in Amber" width=250/>
+<img src="https://rachelabrasier.github.io/images/outlander_cover.png" alt="Outlander" width=250/>
+<img src="https://rachelabrasier.github.io/images/is+everyone+hanging+out+without+me_cover.png" alt="Is Everyone Hanging Out Without Me?" width=250/>
+<img src="https://rachelabrasier.github.io/images/freakonomics_cover.png" alt="Freakonomics" width=250/>
 
