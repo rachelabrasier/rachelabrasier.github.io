@@ -53,7 +53,7 @@ permalink: /bookshelf/
 <img src="https://rachelabrasier.github.io/images/to+paris_cover.png" alt="The 15:17 to Paris" width=200/>
 <img src="https://rachelabrasier.github.io/images/the+less+you+know+the+better+you+sleep_cover.png" alt="The Less You Know, the Better You Sleep" width=200/>
 <img src="https://rachelabrasier.github.io/images/red+notice_cover.png" alt="Red Notice" width=200/>
-<img src="https://rachelabrasier.github.io/images/the+galosh_cover.png" alt="The Galosh and Other Stories" width=200/>
+<img src="https://rachelabrasier.github.io/images/the+galosh+and+other+stories_cover.png" alt="The Galosh and Other Stories" width=200/>
 <img src="https://rachelabrasier.github.io/images/the+compromise_cover.png" alt="The Compromise" width=200/>
 <img src="https://rachelabrasier.github.io/images/fardwor+russia_cover.png" alt="Fardwor, Russia!" width=200/>
 <img src="https://rachelabrasier.github.io/images/back+to+moscow_cover.png" alt="Back to Moscow" width=200/>
