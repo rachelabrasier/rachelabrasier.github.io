@@ -37,10 +37,10 @@ permalink: /bookshelf/
 <img src="https://rachelabrasier.github.io/images/why+not+me_cover.png" alt="Why Not Me" width=250/>
 <img src="https://rachelabrasier.github.io/images/in+other+words_cover.png" alt="In Other Words" width=250/>
 <img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
-<img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
-<img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
-<img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
-<img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
+<img src="https://rachelabrasier.github.io/images/kingdom+of+ash_cover.png" alt="Kingdom of Ash" width=250/>
+<img src="https://rachelabrasier.github.io/images/notes+on+a+foreign+country_cover.png" alt="Notes on a Foreign Country" width=250/>
+<img src="https://rachelabrasier.github.io/images/comradely+greetings_cover.png" alt="Comradely Greetings" width=250/>
+<img src="https://rachelabrasier.github.io/images/1984_cover.png" alt="1984" width=250/>
 <img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
 <img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
 <img src="https://rachelabrasier.github.io/images/flow_cover.png" alt="Flow" width=250/>
