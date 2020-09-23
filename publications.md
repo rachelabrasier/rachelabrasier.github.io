@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /pubs/
 ---
-### George Washington University [International Affairs Review](https://iar-gwu.org/)
+### George Washington University, [International Affairs Review](https://iar-gwu.org/)
 
 *Forthcoming*
 
