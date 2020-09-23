@@ -19,9 +19,13 @@ I am a full-time Economic Development Analyst with three years of professional d
 
 ### Previous Employment
 
-2018 - 2019: U.S. Peace Corps Volunteer, Ukraine  
-2016 - 2018: Energy Economics Research Analyst, Federal Reserve Bank of Dallas  
-2015: National Science Foundation Undergraduate Researcher, Civil Conflict Management and Peace Science 
+2018 - 2019: U.S. Peace Corps Volunteer  
+[*Peace Corps Ukraine*](https://www.peacecorps.gov/ukraine/)  
+[*Ternopil National Technical University*](http://tntu.edu.ua/?p=uk/main/)  
+2016 - 2018: Energy Economics Research Analyst  
+[*Federal Reserve Bank of Dallas*](https://www.dallasfed.org/research/)  
+2015: National Science Foundation Undergraduate Researcher  
+[*UNT NSF-REU on Conflict Management and Peace Science*](https://politicalscience.unt.edu/peace-studies/unt-nsf-reu-conflict-management-and-peace-science)
 
 ### Previous Education
 
