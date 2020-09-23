@@ -13,7 +13,7 @@ I am a full-time Economic Development Analyst with three years of professional d
 2020 - : M.S. Geospatial Information Sciences  
 [*University of Texas at Dallas School of Economic, Political, and Policy Sciences*](https://epps.utdallas.edu/)   
 2020 - : Staff Writer  
-[*George Washington University, International Affairs Review*](https://iar-gwu.org/)
+[*George Washington University, International Affairs Review*](https://iar-gwu.org/)  
 2020 - : Podcast Researcher  
 [*PEP Talk: Policy, Economics, and Politics*](https://anchor.fm/epps-podcast)
 
