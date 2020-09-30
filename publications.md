@@ -5,7 +5,8 @@ permalink: /pubs/
 ---
 ### George Washington University, [International Affairs Review](https://iar-gwu.org/)
 
-*Forthcoming*
+[The Arrest of Sergei Furgal as a Kremlin Power Grab](https://iar-gwu.org/blog/the-arrest-of-sergei-furgal-in-context)  
+*September 30, 2020*
 
 ### The University of Texas at Dallas, [The Connection: Economic Development and Our Community](https://www.utdallas.edu/economicengine/connection/)
 
