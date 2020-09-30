@@ -8,7 +8,7 @@ I am a full-time Economic Development Analyst with three years of professional d
 
 ### Current
 
-2019 - : Economic Development Analyst  
+2019 - : Economic Development Analyst *(see [portfolio](https://rachelabrasier.github.io/pubs#the-university-of-texas-at-dallas-the-connection-economic-development-and-our-community))*  
 [*University of Texas at Dallas Office of Facilities & Economic Development*](https://utdallas.edu/economicengine/)  
 2020 - : M.S. Geospatial Information Sciences  
 [*University of Texas at Dallas School of Economic, Political, and Policy Sciences*](https://epps.utdallas.edu/)   
