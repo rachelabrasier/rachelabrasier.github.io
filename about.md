@@ -27,7 +27,7 @@ I am a full-time Economic Development Analyst with three years of professional d
 2015: National Science Foundation Undergraduate Researcher  
 [*UNT NSF-REU on Conflict Management and Peace Science*](https://politicalscience.unt.edu/peace-studies/unt-nsf-reu-conflict-management-and-peace-science)
 
-### Previous Education <img src="/images/education.png" alt="drawing" width="200"/>
+### Previous Education <img src="/images/education.png" alt="drawing" width="50"/>
 
 2016: M.A. Economics, University of Alabama  
 2015: B.A. International Studies, University of Alabama
