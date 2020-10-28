@@ -6,6 +6,7 @@ permalink: /bookshelf/
 
 ## Recently Read
 
+<img src="https://rachelabrasier.github.io/images/building+the+new+american+economy_cover.png" alt="Building the New American Economy" width=235/>
 <img src="https://rachelabrasier.github.io/images/mexican+gothic_cover.png" alt="Mexican Gothic" width=235/>
 <img src="https://rachelabrasier.github.io/images/tinderbox_cover.png" alt="Tinderbox" width=235/>
 <img src="https://rachelabrasier.github.io/images/galatea_cover.png" alt="Galatea" width=235/>
