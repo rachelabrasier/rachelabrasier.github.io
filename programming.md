@@ -10,5 +10,7 @@ permalink: /programming/
 *rvest, stringr*  
 [COVID-19 Interactive Chart](coronaPlot.html)  
 *coronavirus, plotly*
+[Iris Interactive Chart](irisPlot.html)
+*plotly, reshape, datatable*
 
 ### Python Projects
