@@ -5,9 +5,9 @@ driveId: 10o95XXk9Ei0sF03PpidRaDW7H-nmcBCE/preview
 permalink: /presentations/
 ---
 
-### University of Texas at Dallas, GIS Day  
+### University of Texas at Dallas, GIS Day <img align="right" src="/images/2nd-place-medal.png" alt="drawing" width="100">  
 #### Virtual, 18 November 2020  
-Nighttime Lights in the Donbas [(Open poster as PDF)](Nighttime Lights in the Donbas_GIS Day.pdf) <img align="right" src="/images/2nd-place-medal.png" alt="drawing" width="100">  
+Nighttime Lights in the Donbas [(Open poster as PDF)](Nighttime Lights in the Donbas_GIS Day.pdf)  
 ![Nighttime Lights in the Donbas Poster](/images/Nighttime Lights in the Donbas_GIS Day.JPG "Nighttime Lights in the Donbas Poster")
 
 ### University of Texas at Dallas, Advanced Data Programming Final Presentations
