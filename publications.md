@@ -10,6 +10,18 @@ permalink: /pubs/
 
 ### The University of Texas at Dallas, [The Connection: Economic Development and Our Community](https://www.utdallas.edu/economicengine/connection/)
 
+[Where UT Dallas Freshmen Went to School in Texas](https://utdallas.edu/economicengine/analysis/districts/)  
+*2020*  
+[Texas Cities by Educational Attainment: Field of Bachelor's Degree *(interactive)*](https://utdallas.edu/economicengine/analysis/cities/majors/)  
+*2020*  
+[Texas Cities by Educational Attainment: Education Levels *(interactive)*](https://utdallas.edu/economicengine/analysis/cities/levels/)  
+*2020*  
+[UT Dallas Enrollment and Area Employment by Program](https://utdallas.edu/economicengine/analysis/enrollment/)  
+*2020*
+[Texas Cities by Educational Attainment: College Graduates *(interactive)*](https://utdallas.edu/economicengine/analysis/cities/grads/)  
+*2020*  
+[DFW Employment by Industry](https://utdallas.edu/economicengine/analysis/industries/)  
+*2020*  
 [DFW’s Evolving Labor Market, Part III: Local Cities’ Employment by Industry, 2018](https://utdallas.edu/economicengine/download/The_Connection_20200918.pdf)  
 *September 18, 2020*  
 [DFW’s Evolving Labor Market, Part II: Local Employment by Occupation, 1990 to 2018](https://utdallas.edu/economicengine/download/The_Connection_20200904.pdf)  
