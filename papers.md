@@ -1,10 +1,17 @@
 ---
 layout: page
-title: Papers
+title: Research Papers
 permalink: /papers/
 ---
 
-**Predicting Russian Oil and Gas Well Yields** -- [Download Paper](Oil_Well_Yields.pdf)  
+
+**Twitter Data Analysis as a Lens for Understanding the Conflict in Ukraine: A Time Series Approach**  
+*Time Series Analysis Final Paper, December 2020*
+
+**Nighttime Lights in the Donbas**  
+*Remote Sensing Fundamentals Final Paper, December 2020*
+
+**Predicting Russian Oil Well Yields** -- [Download Paper](Oil_Well_Yields.pdf)  
 *Geospatial Sciences Workshop, August 2020*
 
 **Twitter Data Analysis as a Lens for Understanding the Conflict in Ukraine**  
