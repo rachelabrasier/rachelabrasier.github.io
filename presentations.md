@@ -45,3 +45,8 @@ War and Trade in Ukraine [(Open slideshow)](https://docs.google.com/presentation
 #### Chicago, Illinois, 7-10 April 2016
 The Shadow of the Kremlin: The Effect of Communist Political Legacy on a State's Present-Day Political Discrimination against Minorities [(Open poster as PDF)](Shadow of the Kremlin Poster.pdf)
 ![Shadow of the Kremlin Poster](/images/Shadow of the Kremlin Poster.png "Shadow of the Kremlin Poster")
+
+### Undergraduate Research and Creative Activity Conference
+#### Tuscaloosa, Alabama, 16 April 2013
+Legislative Signaling and the Democratic Peace [(Open poster as PDF)](Legislative Signaling and the Democratic Peace.pdf)
+![Legislative Signaling and the Democratic Peace Poster](/images/Legislative Signaling and the Democratic Peace.jpg "Legislative Signaling and the Democratic Peace Poster")
