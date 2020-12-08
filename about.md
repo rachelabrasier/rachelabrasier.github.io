@@ -14,8 +14,6 @@ I am a full-time Economic Development Analyst with three years of professional d
 [*University of Texas at Dallas School of Economic, Political, and Policy Sciences*](https://epps.utdallas.edu/)   
 2020 - : Staff Writer *(see [portfolio](https://rachelabrasier.github.io/pubs#george-washington-university-international-affairs-review))*  
 [*George Washington University, International Affairs Review*](https://iar-gwu.org/)  
-2020 - : Podcast Staffer  
-[*PEP Talk: Policy, Economics, and Politics*](https://anchor.fm/epps-podcast)
 
 ### Previous Employment
 
