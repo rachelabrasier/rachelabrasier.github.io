@@ -10,7 +10,7 @@ permalink: /pubs/
 
 ### The University of Texas at Dallas, DFW Labor Market Update
 
-Monthly update published on second Wednesday of the month. See full list [here](https://economicengine.utdallas.edu/analysis/market/).
+Updates published on second Wednesday of every month. See full list [here](https://economicengine.utdallas.edu/analysis/market/).
 
 ### The University of Texas at Dallas, [The Connection: Economic Development and Our Community](https://www.utdallas.edu/economicengine/connection/)
 
