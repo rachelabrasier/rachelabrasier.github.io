@@ -8,6 +8,10 @@ permalink: /pubs/
 [The Arrest of Sergei Furgal as a Kremlin Power Grab](https://iar-gwu.org/blog/the-arrest-of-sergei-furgal-in-context)  
 *September 30, 2020*
 
+### The University of Texas at Dallas, DFW Labor Market Update
+
+Monthly update published on second Wednesday of the month. See full list [here](https://economicengine.utdallas.edu/analysis/market/).
+
 ### The University of Texas at Dallas, [The Connection: Economic Development and Our Community](https://www.utdallas.edu/economicengine/connection/)
 
 [Where UT Dallas Freshmen Went to School in Texas *(interactive)*](https://utdallas.edu/economicengine/analysis/districts/)  
