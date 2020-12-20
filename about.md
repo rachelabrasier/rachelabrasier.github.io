@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I am a full-time Economic Development Analyst with three years of professional data analysis experience, and a Geospatial Information Sciences master's student and part-time staff writer for an international affairs publication.
+I am a full-time Economic Development Analyst with four years of professional data analysis experience, and a Geospatial Information Sciences master's student and part-time staff writer for an international affairs publication.
 
 ### Employment
 
