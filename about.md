@@ -22,7 +22,7 @@ I am a full-time Economic Development Analyst with three years of professional d
 
 
 ### Previous Education <img src="/images/education.png" alt="drawing" width="100">
-2020 - : M.S. Geospatial Information Sciences  
+Expected 2021: M.S. Geospatial Information Sciences  
 [*University of Texas at Dallas School of Economic, Political, and Policy Sciences*](https://epps.utdallas.edu/)   
 2016: M.A. Economics  
 *University of Alabama Manderson Graduate School of Business*  
