@@ -50,6 +50,7 @@ permalink: /bookshelf/
 <img src="https://rachelabrasier.github.io/images/exit+west_cover.png" alt="Exit West" width=235/>
 <img src="https://rachelabrasier.github.io/images/the+defining+decade_cover.png" alt="The Defining Decade" width=235/>
 <img src="https://rachelabrasier.github.io/images/survive+like+a+spy_cover.png" alt="Survive Like a Spy" width=235/>
+<img src="https://rachelabrasier.github.io/images/the+art+of+language+invention_cover.png" alt="The Art of Language Invention" width=235/>
 <img src="https://rachelabrasier.github.io/images/on+tyranny_cover.png" alt="On Tyranny" width=235/>
 <img src="https://rachelabrasier.github.io/images/the+bone+witch_cover.png" alt="The Bone Witch" width=235/>
 <img src="https://rachelabrasier.github.io/images/we+should+all+be+feminists_cover.png" alt="We Should All Be Feminists" width=235/>
