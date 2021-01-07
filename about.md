@@ -39,6 +39,8 @@ Expected 2021: M.S. Geospatial Information Sciences
 <img src="/images/germany-flag.png" alt="drawing" width="100"> German (A2)  
 <img src="/images/croatia-flag.png" alt="drawing" width="100"> Croatian (A1)
 
+<img src="/images/countries_visited.png">
+
 ### Contact me:
 
 [rachelabrasier@gmail.com](mailto:rachelabrasier@gmail.com)
