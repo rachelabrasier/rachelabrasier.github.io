@@ -6,7 +6,8 @@ permalink: /bookshelf/
 
 ## Recently Read
 
-<img src="https://rachelabrasier.github.io/images/the+price+of+civilization_cover.png" alt="The Price of Civilization" width=235/>
+<img src="https://rachelabrasier.github.io/images/why+nations+fail_cover.png" alt="Why Nations Fail" width=235/>
+<img src="https://rachelabrasier.github.io/images/bridgerton+collection_cover.png" alt="Bridgerton Collection (Volumes 1 - 3)" width=235/>
 <img src="https://rachelabrasier.github.io/images/a+deadly+education_cover.png" alt="A Deadly Education" width=235/>
 <img src="https://rachelabrasier.github.io/images/for+the+love+of+music_cover.png" alt="For the Love of Music" width=235/>
 <img src="https://rachelabrasier.github.io/images/the+storm+before+the+calm_cover.png" alt="The Storm Before the Calm" width=235/>
