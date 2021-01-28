@@ -13,4 +13,4 @@ permalink: /programming/
 [Iris Interactive Chart](irisPlot.html)  
 *reshape, plotly, datatable*  
 [DFW Wage Explorer](dfwwages.html)  
-*R Markdown script to be added soon*  
+*Created using plotly, datatable, bscols. R Markdown script to be added soon.*  
