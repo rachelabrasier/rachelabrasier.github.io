@@ -7,7 +7,7 @@ permalink: /bookshelf/
 ## Currently Reading
 
 <img src="https://rachelabrasier.github.io/images/crippling+leviathan_cover.png" alt="Crippling Leviathan" width=235/>
-<img src="https://rachelabrasier.github.io/images/why+nations+fail_cover.png" alt="Why Nations Fail" width=235/>
+<img src="https://rachelabrasier.github.io/images/visual+thinking+for+design_cover.png" alt="Visual Thinking for Design" width=235/>
 <img src="https://rachelabrasier.github.io/images/the+last+empire_cover.png" alt="The Last Empire" width=235/>
 
 ## Recently Read
