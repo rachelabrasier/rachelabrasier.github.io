@@ -12,5 +12,5 @@ permalink: /programming/
 *coronavirus, plotly*  
 [Iris Interactive Chart](irisPlot.html)  
 *reshape, plotly, datatable*  
-
-### Python Projects
+[DFW Wage Explorer](dfwwages.html)  
+*R Markdown script to be added soon*  
