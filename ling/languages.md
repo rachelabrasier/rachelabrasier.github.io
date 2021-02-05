@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Languages
-permalink: /languages/
+permalink: /ling/languages/
 ---
 
 ### Languages
