@@ -12,7 +12,7 @@ permalink: /bookshelf/
 
 ## Recently Read
 
-<img src="https://rachelabrasier.github.io/images/the+balkans+a+short+history_cover.png" alt="A Deadly Education" width=235/>
+<img src="https://rachelabrasier.github.io/images/the+balkans+a+short+history_cover.png" alt="The Balkans: A Short History" width=235/>
 <img src="https://rachelabrasier.github.io/images/bridgerton+collection_cover.png" alt="Bridgerton Collection (Volumes 1 - 3)" width=235/>
 <img src="https://rachelabrasier.github.io/images/a+deadly+education_cover.png" alt="A Deadly Education" width=235/>
 <img src="https://rachelabrasier.github.io/images/for+the+love+of+music_cover.png" alt="For the Love of Music" width=235/>
