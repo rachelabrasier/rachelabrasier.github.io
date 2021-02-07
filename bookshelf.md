@@ -7,7 +7,7 @@ permalink: /bookshelf/
 ## Currently Reading
 
 <img src="https://rachelabrasier.github.io/images/crippling+leviathan_cover.png" alt="Crippling Leviathan" width=235/>
-<img src="https://rachelabrasier.github.io/images/visual+thinking+for+design_cover.png" alt="Visual Thinking for Design" width=235/>
+<img src="https://rachelabrasier.github.io/images/the+world+a+brief+introduction_cover.png" alt="The World: A Brief Introduction" width=235/>
 <img src="https://rachelabrasier.github.io/images/shakespeare+in+a+divided+america_cover.png" alt="Shakespeare in a Divided America" width=235/>
 
 ## Recently Read
