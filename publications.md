@@ -3,11 +3,6 @@ layout: page
 title: Publications
 permalink: /pubs/
 ---
-### George Washington University, [International Affairs Review](https://iar-gwu.org/)
-
-[The Arrest of Sergei Furgal as a Kremlin Power Grab](https://iar-gwu.org/blog/the-arrest-of-sergei-furgal-in-context)  
-*September 30, 2020*
-
 ### The University of Texas at Dallas, DFW Labor Market Update
 
 Updates published on second Wednesday of every month. See full list [here](https://economicengine.utdallas.edu/analysis/market/).
