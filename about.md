@@ -10,7 +10,7 @@ I am a full-time Economic Development Analyst with four years of professional da
 
 2019 - Present: Economic Development Analyst *(see [portfolio](https://rachelabrasier.github.io/pubs#the-university-of-texas-at-dallas-the-connection-economic-development-and-our-community))*  
 [*University of Texas at Dallas Office of Facilities & Economic Development*](https://economicengine.utdallas.edu)  
-2020 - Present: Staff Writer *(see [portfolio](https://rachelabrasier.github.io/pubs#george-washington-university-international-affairs-review))*  
+2020 - Present: Staff Writer  
 [*George Washington University, International Affairs Review*](https://iar-gwu.org/)  
 2018 - 2019: U.S. Peace Corps Volunteer  
 [*Peace Corps Ukraine*](https://www.peacecorps.gov/ukraine/)  
@@ -34,8 +34,8 @@ Expected 2021: M.S. Geospatial Information Sciences
 <img src="/images/usa-flag.png" alt="drawing" width="100"> English (native)  
 <img src="/images/mexico-flag.png" alt="drawing" width="100"> <img src="/images/spain-flag.png" alt="drawing" width="100"> <img src="/images/colombia-flag.png" alt="drawing" width="100"> Spanish (C2 -- fluent)  
 <img src="/images/france-flag.png" alt="drawing" width="100"> French (C2 -- fluent)  
-<img src="/images/ukraine-flag.png" alt="drawing" width="100"> Ukrainian (B2 -- intermediate high)  
-<img src="/images/russia-flag.png" alt="drawing" width="100"> Russian (B1 -- intermediate low)  
+<img src="/images/ukraine-flag.png" alt="drawing" width="100"> Ukrainian (C1 -- advanced)  
+<img src="/images/russia-flag.png" alt="drawing" width="100"> Russian (C1 -- advanced)  
 <img src="/images/germany-flag.png" alt="drawing" width="100"> German (B1 -- intermediate low)  
 <img src="/images/croatia-flag.png" alt="drawing" width="100"> Croatian (A1 -- beginner)
 
