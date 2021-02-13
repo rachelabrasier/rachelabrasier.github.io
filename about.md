@@ -32,12 +32,12 @@ Expected 2021: M.S. Geospatial Information Sciences
 ### Languages
 
 <img src="/images/usa-flag.png" alt="drawing" width="100"> English (native)  
-<img src="/images/mexico-flag.png" alt="drawing" width="100"> <img src="/images/spain-flag.png" alt="drawing" width="100"> <img src="/images/colombia-flag.png" alt="drawing" width="100"> Spanish (fluent)  
-<img src="/images/france-flag.png" alt="drawing" width="100"> French (fluent)  
-<img src="/images/ukraine-flag.png" alt="drawing" width="100"> Ukrainian (advanced)  
-<img src="/images/russia-flag.png" alt="drawing" width="100"> Russian (advanced)  
-<img src="/images/germany-flag.png" alt="drawing" width="100"> German (intermediate)  
-<img src="/images/croatia-flag.png" alt="drawing" width="100"> Croatian (beginner)
+<img src="/images/mexico-flag.png" alt="drawing" width="100"> <img src="/images/spain-flag.png" alt="drawing" width="100"> <img src="/images/colombia-flag.png" alt="drawing" width="100"> Spanish (C2--fluent)  
+<img src="/images/france-flag.png" alt="drawing" width="100"> French (C2--fluent)  
+<img src="/images/ukraine-flag.png" alt="drawing" width="100"> Ukrainian (C1--advanced)  
+<img src="/images/russia-flag.png" alt="drawing" width="100"> Russian (C1--advanced)  
+<img src="/images/germany-flag.png" alt="drawing" width="100"> German (B1--intermediate)  
+<img src="/images/croatia-flag.png" alt="drawing" width="100"> Croatian (A1--beginner)
 
 <img src="/images/countries_visited.png">
 
