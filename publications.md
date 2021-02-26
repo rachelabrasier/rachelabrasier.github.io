@@ -9,7 +9,7 @@ Updates published on second Wednesday of every month. See full list [here](https
 
 ### The University of Texas at Dallas, [The Connection: Economic Development and Our Community](https://www.utdallas.edu/economicengine/connection/)
 
-[STEM Employment Growth - Projected Growth in DFW STEM Employment, 2019 to 2029: Computer Occupations](https://economicengine.utdallas.edu/download/The_Connection_20210224.pdf)  
+[Projected Growth in DFW STEM Employment, 2019 to 2029: Computer Occupations](https://economicengine.utdallas.edu/download/The_Connection_20210224.pdf)  
 *February 24, 2021*  
 [UT Dallas Enrollment and Area Employment by Program *(interactive -- updated: Fall 2020 enrollment)*](https://utdallas.edu/economicengine/analysis/enrollment/)  
 *January 25, 2021*  
