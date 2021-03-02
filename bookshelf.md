@@ -8,6 +8,7 @@ permalink: /bookshelf/
 
 <img src="https://rachelabrasier.github.io/images/songs+of+america_cover.png" alt="Songs of America" width=235/>
 <img src="https://rachelabrasier.github.io/images/the+last+empire_cover.png" alt="The Last Empire" width=235/>
+<img src="https://rachelabrasier.github.io/images/applied+spatial+statistics_cover.png" alt="Applied Spatial Statistics for Public Health Data" width=235/>
 
 ## Recently Read
 
