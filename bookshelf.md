@@ -7,7 +7,6 @@ permalink: /bookshelf/
 ## Currently Reading
 
 <img src="https://rachelabrasier.github.io/images/songs+of+america_cover.png" alt="Songs of America" width=235/>
-<img src="https://rachelabrasier.github.io/images/the+world+a+brief+introduction_cover.png" alt="The World: A Brief Introduction" width=235/>
 <img src="https://rachelabrasier.github.io/images/the+last+empire_cover.png" alt="The Last Empire" width=235/>
 
 ## Recently Read
