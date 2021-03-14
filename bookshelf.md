@@ -13,7 +13,7 @@ permalink: /bookshelf/
 ## Recently Read
 
 <img src="https://rachelabrasier.github.io/images/the+book+of+life_cover.png" alt="The Book of Life" width=235/>
-<img src="https://rachelabrasier.github.io/images/shadow+of+the+night_cover.png" alt="Shadow of the Night" width=235/>
+<img src="https://rachelabrasier.github.io/images/shadow+of+night_cover.png" alt="Shadow of Night" width=235/>
 <img src="https://rachelabrasier.github.io/images/a+discovery+of+witches_cover.png" alt="A Discovery of Witches" width=235/>
 <img src="https://rachelabrasier.github.io/images/shakespeare+in+a+divided+america_cover.png" alt="Shakespeare in a Divided America" width=235/>
 <img src="https://rachelabrasier.github.io/images/bridgerton+collection_cover.png" alt="Bridgerton Collection" width=235/>
