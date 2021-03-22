@@ -22,7 +22,7 @@ I am a full-time Economic Development Analyst with four years of professional da
 
 
 ### Education <img src="/images/education.png" alt="drawing" width="100">
-Expected 2021: M.S. Geospatial Information Sciences  
+Expected May 2021: M.S. Geospatial Information Sciences  
 [*University of Texas at Dallas School of Economic, Political, and Policy Sciences*](https://epps.utdallas.edu/)   
 2016: M.A. Economics  
 *University of Alabama Manderson Graduate School of Business*  
@@ -36,8 +36,7 @@ Expected 2021: M.S. Geospatial Information Sciences
 <img src="/images/france-flag.png" alt="drawing" width="100"> French (C2--fluent)  
 <img src="/images/ukraine-flag.png" alt="drawing" width="100"> Ukrainian (C1--advanced)  
 <img src="/images/russia-flag.png" alt="drawing" width="100"> Russian (C1--advanced)  
-<img src="/images/germany-flag.png" alt="drawing" width="100"> German (B1--intermediate)  
-<img src="/images/croatia-flag.png" alt="drawing" width="100"> Croatian (A1--beginner)
+<img src="/images/germany-flag.png" alt="drawing" width="100"> German (B1--intermediate)
 
 <img src="/images/countries_visited.png">
 
