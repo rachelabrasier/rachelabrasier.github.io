@@ -7,7 +7,7 @@ permalink: /bookshelf/
 ## Currently Reading
 
 <img src="https://rachelabrasier.github.io/images/seven+brief+lessons+on+physics_cover.png" alt="Seven Brief Lessons on Physics" width=235/>
-<img src="https://rachelabrasier.github.io/images/red+widow_cover.png" alt="Red Widow" width=235/>
+<img src="https://rachelabrasier.github.io/images/infinite+country_cover.png" alt="Infinite Country" width=235/>
 <img src="https://rachelabrasier.github.io/images/songs+of+america_cover.png" alt="Songs of America" width=235/>
 
 ## Recently Read
