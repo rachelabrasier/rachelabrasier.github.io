@@ -12,6 +12,7 @@ permalink: /bookshelf/
 
 ## Recently Read
 
+<img src="https://rachelabrasier.github.io/images/red+widow_cover.png" alt="Red Widow" width=235/>
 <img src="https://rachelabrasier.github.io/images/need+to+know_cover.png" alt="Need to Know" width=235/>
 <img src="https://rachelabrasier.github.io/images/the+book+of+life_cover.png" alt="The Book of Life" width=235/>
 <img src="https://rachelabrasier.github.io/images/shadow+of+night_cover.png" alt="Shadow of Night" width=235/>
