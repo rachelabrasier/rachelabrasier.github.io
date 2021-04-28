@@ -10,9 +10,9 @@ Updates published on second Wednesday of every month. See full list [here](https
 ### The University of Texas at Dallas, [The Connection: Economic Development and Our Community](https://www.utdallas.edu/economicengine/connection/)
 [DFW's Young Labor Force: Residents and Workers Under 25 Years Old](https://economicengine.utdallas.edu/download/The_Connection_20210427.pdf)  
 *April 28, 2021*  
-[Women Employed in STEM, 2015 - 2019 Employment and Earnings](https://economicengine.utdallas.edu/analysis/stemwomen/)  
+[Women Employed in STEM, 2015 - 2019 Employment and Earnings *(interactive)*](https://economicengine.utdallas.edu/analysis/stemwomen/)  
 *March 11, 2021*  
-[Women in STEM Occupations in DFW, 2015 - 2019 Employment and Earnings *(interactive)*](https://economicengine.utdallas.edu/download/The_Connection_20210310.pdf)  
+[Women in STEM Occupations in DFW, 2015 - 2019 Employment and Earnings](https://economicengine.utdallas.edu/download/The_Connection_20210310.pdf)  
 *March 10, 2021*  
 [Projected Growth in DFW STEM Employment, 2019 to 2029: Computer Occupations](https://economicengine.utdallas.edu/download/The_Connection_20210224.pdf)  
 *February 24, 2021*  
