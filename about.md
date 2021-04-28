@@ -24,7 +24,7 @@ I am a full-time Economic Research and GIS Analyst with four years of profession
 ### Education <img src="/images/education.png" alt="drawing" width="100">
 Expected May 2021: M.S. Geospatial Information Sciences  
                    + Geospatial Intelligence Certificate  
-[*University of Texas at Dallas School of Economic, Political, and Policy Sciences*](https://epps.utdallas.edu/)   
+*University of Texas at Dallas School of Economic, Political, and Policy Sciences*   
 2016: M.A. Economics  
 *University of Alabama Manderson Graduate School of Business*  
 2015: B.A. International Studies  
