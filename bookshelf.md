@@ -7,11 +7,12 @@ permalink: /bookshelf/
 ## Currently Reading
 
 <img src="https://rachelabrasier.github.io/images/the+world+a+brief+introduction_cover.png" alt="The World: A Brief Introduction" width=235/>
-<img src="https://rachelabrasier.github.io/images/times+convert_cover.png" alt="Time's Convert" width=235/>
+<img src="https://rachelabrasier.github.io/images/the+woman+who+smashed+codes_cover.png" alt="The Woman Who Smashed Codes" width=235/>
 <img src="https://rachelabrasier.github.io/images/songs+of+america_cover.png" alt="Songs of America" width=235/>
 
 ## Recently Read
 
+<img src="https://rachelabrasier.github.io/images/times+convert_cover.png" alt="Time's Convert" width=235/>
 <img src="https://rachelabrasier.github.io/images/seven+brief+lessons+on+physics_cover.png" alt="Seven Brief Lessons on Physics" width=235/>
 <img src="https://rachelabrasier.github.io/images/red+widow_cover.png" alt="Red Widow" width=235/>
 <img src="https://rachelabrasier.github.io/images/need+to+know_cover.png" alt="Need to Know" width=235/>
