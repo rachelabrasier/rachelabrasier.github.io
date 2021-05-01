@@ -5,7 +5,11 @@ permalink: /papers/
 ---
 
 **Nighttime Lights in the Donbas: Modeling Conflict Migration Patterns in Ukraine Using Satellite Imagery**  
-*Forthcoming*
+*M.S. GIS Capstone Project, May 2021*  
+*Advanced GIS Final Project, May 2021* 
+
+**A Demographic GIS Analysis of Elementary School Locations in Dallas, Texas**
+*Demographic and Epidemiological Analysis and Modeling Final Paper, May 2021*
 
 **Twitter Data Analysis as a Lens for Understanding the Conflict in Ukraine: A Time Series Approach** -- [Download Paper](Ukrainian_Patriotic_Tweets.pdf)  
 *Time Series Analysis Final Paper, December 2020*  
