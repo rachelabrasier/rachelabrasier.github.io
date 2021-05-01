@@ -4,6 +4,8 @@ title: Research Papers
 permalink: /papers/
 ---
 
+**Nighttime Lights in the Donbas: Modeling Conflict Migration Patterns in Ukraine Using Satellite Imagery**  
+*Forthcoming*
 
 **Twitter Data Analysis as a Lens for Understanding the Conflict in Ukraine: A Time Series Approach** -- [Download Paper](Ukrainian_Patriotic_Tweets.pdf)  
 *Time Series Analysis Final Paper, December 2020*  
