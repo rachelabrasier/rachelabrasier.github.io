@@ -18,8 +18,8 @@ Nighttime Lights in the Donbas: Modeling Conflict Migration Patterns in Ukraine 
 Nighttime Lights in the Donbas: Modeling Conflict Migration Patterns in Ukraine Using Satellite Imagery
 
 ### University of Texas at Dallas, Demographic and Epidemiological Analysis and Modeling Final Presentations
-#### Virtual, 11 May 2021 *Forthcoming*
-A Demographic GIS Analysis of Elementary School Locations in Dallas, Texas
+#### Virtual, 11 May 2021
+[A Demographic GIS Analysis of Elementary School Locations in Dallas, Texas](DISD School Attendance Zone Demographics.pdf)
 
 ### University of Texas at Dallas, GIS Day Poster Competition <img align="right" src="/images/2nd-place-medal.png" alt="drawing" width="100">  
 #### Virtual, 18 November 2020  
