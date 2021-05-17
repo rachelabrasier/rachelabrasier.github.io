@@ -8,6 +8,8 @@ permalink: /pubs/
 Updates published on second Wednesday of every month. See full list [here](https://economicengine.utdallas.edu/analysis/market/).
 
 ### The University of Texas at Dallas, [The Connection: Economic Development and Our Community](https://www.utdallas.edu/economicengine/connection/)
+[Professionals in DFW: Workers by Drive Time to Major Cities](https://economicengine.utdallas.edu/download/The_Connection_20210510.pdf)  
+*May 10, 2021*  
 [DFW's Young Labor Force: Residents and Workers Under 25 Years Old](https://economicengine.utdallas.edu/download/The_Connection_20210427.pdf)  
 *April 28, 2021*  
 [Women Employed in STEM, 2015 - 2019 Employment and Earnings *(interactive)*](https://economicengine.utdallas.edu/analysis/stemwomen/)  
