@@ -7,8 +7,8 @@ permalink: /bookshelf/
 ## Currently Reading
 
 <img src="https://rachelabrasier.github.io/images/the+world+a+brief+introduction_cover.png" alt="The World: A Brief Introduction" width=235/>
+<img src="https://rachelabrasier.github.io/images/creatures+of+passage_cover.png" alt="Creatures of Passage" width=235/>
 <img src="https://rachelabrasier.github.io/images/this+is+how+they+tell+me+the+world+ends_cover.png" alt="This Is How They Tell Me the World Ends" width=235/>
-<img src="https://rachelabrasier.github.io/images/chaos+under+heaven_cover.png" alt="Chaos Under Heaven" width=235/>
 
 ## Recently Read
 
