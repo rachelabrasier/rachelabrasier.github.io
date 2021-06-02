@@ -9,7 +9,7 @@ Updates published on second Wednesday of every month. See full list [here](https
 
 ### The University of Texas at Dallas, [The Connection: Economic Development and Our Community](https://www.utdallas.edu/economicengine/connection/)
 [Projected Growth in DFW STEM Employment, 2019 to 2029: Mathematical Science Occupations](https://economicengine.utdallas.edu/download/The_Connection_20210521.pdf)  
-*May 24, 2021*  
+*May 21, 2021*  
 [Professionals in DFW: Workers by Drive Time to Major Cities](https://economicengine.utdallas.edu/download/The_Connection_20210510.pdf)  
 *May 10, 2021*  
 [DFW's Young Labor Force: Residents and Workers Under 25 Years Old](https://economicengine.utdallas.edu/download/The_Connection_20210427.pdf)  
