@@ -8,9 +8,11 @@ I am a full-time Economic Research and GIS Analyst with four years of profession
 
 ### Employment
 
-2019 - Present: Economic Development Analyst *(see [portfolio](https://rachelabrasier.github.io/pubs#the-university-of-texas-at-dallas-the-connection-economic-development-and-our-community))*  
+2020 - 2021: Research Officer  
+*International Monetary Fund, Commodities Research Unit*  
+2019 - 2021: Economic Development Analyst *(see [portfolio](https://rachelabrasier.github.io/pubs#the-university-of-texas-at-dallas-the-connection-economic-development-and-our-community))*  
 [*University of Texas at Dallas Office of Facilities & Economic Development*](https://economicengine.utdallas.edu)  
-2020 - Present: Staff Writer  
+2020 - 2021: Staff Writer  
 [*George Washington University, International Affairs Review*](https://iar-gwu.org/)  
 2018 - 2019: U.S. Peace Corps Volunteer  
 [*Peace Corps Ukraine*](https://www.peacecorps.gov/ukraine/)  
