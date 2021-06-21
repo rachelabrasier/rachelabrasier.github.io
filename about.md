@@ -8,16 +8,16 @@ I am a full-time Economic Research and GIS Analyst with four years of profession
 
 ### Employment
 
-2021 - Present: Research Officer  
+2021 -- Present: Research Officer  
 [*International Monetary Fund, Commodities Research Unit*](https://www.imf.org/en/Research)  
-2019 - 2021: Economic Development Analyst *(see [portfolio](https://rachelabrasier.github.io/pubs#the-university-of-texas-at-dallas-the-connection-economic-development-and-our-community))*  
+2019 -- 2021: Economic Development Analyst *(see [portfolio](https://rachelabrasier.github.io/pubs#the-university-of-texas-at-dallas-the-connection-economic-development-and-our-community))*  
 [*University of Texas at Dallas Office of Facilities & Economic Development*](https://economicengine.utdallas.edu)  
-2020 - 2021: Staff Writer  
+2020 -- 2021: Staff Writer  
 [*George Washington University, International Affairs Review*](https://iar-gwu.org/)  
-2018 - 2019: U.S. Peace Corps Volunteer  
+2018 -- 2019: U.S. Peace Corps Volunteer  
 [*Peace Corps Ukraine*](https://www.peacecorps.gov/ukraine/)  
 [*Ternopil National Technical University*](http://tntu.edu.ua/?p=uk/main/)  
-2016 - 2018: Energy Economics Research Analyst *(see [portfolio](https://rachelabrasier.github.io/pubs#federal-reserve-bank-of-dallas-southwest-economy))*  
+2016 -- 2018: Energy Economics Research Analyst *(see [portfolio](https://rachelabrasier.github.io/pubs#federal-reserve-bank-of-dallas-southwest-economy))*  
 [*Federal Reserve Bank of Dallas*](https://www.dallasfed.org/research/)  
 2015: National Science Foundation Undergraduate Researcher  
 [*UNT NSF-REU on Conflict Management and Peace Science*](https://politicalscience.unt.edu/peace-studies/unt-nsf-reu-conflict-management-and-peace-science)
