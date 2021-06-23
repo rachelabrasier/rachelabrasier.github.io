@@ -8,6 +8,10 @@ permalink: /pubs/
 Updates published on second Wednesday of every month. See full list [here](https://economicengine.utdallas.edu/analysis/market/).
 
 ### The University of Texas at Dallas, [The Connection: Economic Development and Our Community](https://www.utdallas.edu/economicengine/connection/)
+[Labor Market Explorer for Students *(interactive)*](https://utdallas.edu/economicengine/analysis/explorer/)  
+*June 18, 2021*  
+[UT Dallas Pipeline *(interactive)*](https://utdallas.edu/economicengine/analysis/pipeline/)  
+*June 18, 2021*  
 [Projected Growth in DFW STEM Employment, 2019 to 2029: Mathematical Science Occupations](https://economicengine.utdallas.edu/download/The_Connection_20210521.pdf)  
 *May 21, 2021*  
 [Professionals in DFW: Workers by Drive Time to Major Cities](https://economicengine.utdallas.edu/download/The_Connection_20210510.pdf)  
